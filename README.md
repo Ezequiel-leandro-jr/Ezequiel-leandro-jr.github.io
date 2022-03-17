@@ -1,4 +1,4 @@
-<h1 align="center">Este é o meu portfolio.</h1>
+<h1 align="center">This is my PORTFOLIO.</h1>
 
 - 📝 Here is where I will share the evolution of my studies and future projects.
 
